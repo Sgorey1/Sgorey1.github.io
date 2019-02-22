@@ -1,0 +1,11 @@
+body { 	background: aliceblue;
+color: green;
+   	    	font-size: 14pt;
+       		font-family: 'Felipa'; 
+ 			    }
+				
+nav a {	display: inline-block;
+        	border: 2px solid navy;
+        	padding: 10px;
+		margin: 5px;
+		background: red;}
